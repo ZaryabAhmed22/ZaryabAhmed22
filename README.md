@@ -35,11 +35,16 @@
 
 I am a Full Stack Web and IOT Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
+
+- :man_student: Engineering student in NED University.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Machine Learning and AI.
+- :robot: Exploring Machine Learning and AI and as well as Web 3.0 and BLockchain.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In am always learning new technologies through online courses and practicing the skills I have already learned.
+
+- :man_teacher: I teach Maths, Physics and Cmputer Science and English to high school students.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
