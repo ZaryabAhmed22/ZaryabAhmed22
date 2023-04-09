@@ -2,7 +2,7 @@
 
 
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="120"/>
   </div>
 
 
@@ -47,6 +47,16 @@ I am a Full Stack Web and IOT Developer <img src="https://media.giphy.com/media/
 - :man_teacher: I teach Maths, Physics and Cmputer Science and English to high school students.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
+### :man_technologist: Interest :
+It's not always like I'm coding or learning something only related to tech, I have other hobies and activities as well
+
+- :basketball_man: Captain of my football/soccer team FK Krieger. Football is like my first love and I'm playing this game since I was a kid. I am so passionate about this sport that I still manage some time to play it.
+
+- :weight_lifting: Fitness freak. Despite a very busy schedule I am concious about my diet and spare some time from my daily routin to hit the gym. It's so difficult to do a lot of things in only 24 hours but <strong>a balanced life is a happy life.</strong>
+
+- :man_cook: I love cooking. I'm a pretty good cook and always prepare food after gym exercise or football match. I love to create new combinations and tastes.
 
 ---
 
