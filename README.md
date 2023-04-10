@@ -111,3 +111,9 @@ It's not always like I'm coding or learning something only related to tech, I ha
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZaryabAhmed22&theme=vue)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabAhmed22&layout=compact&theme=vue&border_color=59d49e)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<details>
+ <summary><h3> :biking_man: Zaryab's Coding Journey</h3><img src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif" width="30"></summary>
+  First of all, I am not a native Computer Science student. I am a telecommunications engeering undergrad. I started my coding journey when I was unable to   be enrolled in any CS program in any of the reputable Universities throughout the city. The idea of online learning and innovating your own path and       knowing the success strories of numerious people on youtube and other Social Media platforms like LinkedIn, gave me enought strength to start my learning   outney as a self taught pogrammer.
+</details>
