@@ -114,6 +114,6 @@ It's not always like I'm coding or learning something only related to tech, I ha
 
 ---
 <details>
- <summary><h3> :biking_man: Zaryab's Coding Journey</h3><img src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif" width="30"></summary>
+  <summary><h3> :biking_man: Zaryab's Coding Journey</h3><img src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif" width="30" style="margin-left:10px"></summary>
   First of all, I am not a native Computer Science student. I am a telecommunications engeering undergrad. I started my coding journey when I was unable to   be enrolled in any CS program in any of the reputable Universities throughout the city. The idea of online learning and innovating your own path and       knowing the success strories of numerious people on youtube and other Social Media platforms like LinkedIn, gave me enought strength to start my learning   outney as a self taught pogrammer.<img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="600" height="300"/>
 </details>
