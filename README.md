@@ -110,7 +110,7 @@ It's not always like I'm coding or learning something only related to tech, I ha
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZaryabAhmed22&theme=vue)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabAhmed22&layout=compact&theme=vue&border_color=59d49e)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZaryabAhmed22&theme=vue&custom_title=Zaryab's%20Github%20activity&hide_border=true&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZaryabAhmed22&theme=vue&custom_title=Zaryab's%20Github%20activity&hide_border=true&radius=5)](https://github-readme-activity-graph.vercel.app)
 
 ---
 <details>
